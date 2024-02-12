@@ -4,11 +4,11 @@ Steps to run project
 -Open the folder in vs code 
 -Open package.json file in "api" folder 
 -Open terminal 
--Enter the api folder by using command "cd api" 
+-Access the api folder by using command "cd api" 
 -Use command "npm i" {This will install node modules and package.json file in api folder}
 -Now use "npm run serverRun" 
 -Open new terminal 
--Enter the folder using command "cd enroll" 
+-Access the folder using command "cd login" 
 -Open package.json file in "login" folder 
 -Again use command "npm i" {This will install node modules and package.json file in login folder}
 -After complete installation, use "npm start"
